@@ -38,7 +38,17 @@ class ViewController: UIViewController {
         }else{
             println("sender is not aXXX")
         }
-//        println("\(sender.value)")
     }
+    @IBAction func segmentPressed(sender: AnyObject) {
+        lblTitle.text = String((sender as UISegmentedControl).selectedSegmentIndex) + "--" + (sender as UISegmentedControl).titleForSegmentAtIndex((sender as UISegmentedControl).selectedSegmentIndex)!
+    }
+    
+    @IBAction func uistapperPressed(sender: UIStepper) {
+        println("\(sender.value)")
+        lblTitle.text = String(format: "%.3f",sender.value)
+    }
+
+
+
 }
 
