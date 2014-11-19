@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0AA07B51-D84F-4F5F-8242-843B68D2A15A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftUIInterface</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7C68D238C6DE9B3E4554701DAA79185B380A344B</key>
+		<string>https://github.com/lovelyblue/SwiftUIInterface.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftUIInterface.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7C68D238C6DE9B3E4554701DAA79185B380A344B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lovelyblue/SwiftUIInterface.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7C68D238C6DE9B3E4554701DAA79185B380A344B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7C68D238C6DE9B3E4554701DAA79185B380A344B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftUIInterface</string>
+		</dict>
+	</array>
+</dict>
+</plist>
